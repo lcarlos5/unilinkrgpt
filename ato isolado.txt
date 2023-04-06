@@ -1,0 +1,47 @@
+Quando realizamos um trabalho esporádico, sem que tenha sido celebrado um contrato, é normal recorrer à abertura de atividade nas Finanças para faturar o montante recebido, através de recibos verdes.  
+
+Porém, existe uma alternativa aos recibos verdes. O ato isolado - também conhecido como ato único - permite-lhe passar um único recibo anual sem ter de se declarar como trabalhador independente. O ato isolado evita, assim, a abertura de atividade nas Finanças por um trabalho que surgiu de forma inesperada e que não se prevê que se repita de forma regular. 
+
+Contudo, atenção, a lei apenas permite que emita um por ano e o valor não pode ultrapassar os 25 mil euros. Caso ultrapasse este valor, fica obrigado a entregar a declaração de Início de Atividade. 
+
+Se abrir atividade pode ainda recorrer ao nosso Simulador de Segurança Social Trabalhadores Independentes 2022 para perceber qual o valor das contribuições que poder vir a fazer.
+
+Para emitir um ato isolado, tenho de pagar IVA e IRS? 
+Uma das obrigações fiscais de quem emite um ato isolado é o pagamento de IVA - Imposto sobre o Valor Acrescentado. Para a maioria dos casos, é aplicada a taxa de 23%, exceto para os serviços previstos no artigo 9.º do Código do IVA. 
+
+Nas exceções incluem-se profissões como médico, odontologista, psicólogo, parteiro, enfermeiro, atores, músicos, desportistas, entre outros. Pode consultar a lista completa no artigo acima mencionado.  
+
+No que diz respeito ao IRS - Imposto sobre o Rendimento de Pessoas Singulares, está dispensado de fazer a retenção na fonte, no caso de os rendimentos não excederem os 12.500 euros.  
+
+Porém, mesmo não fazendo a retenção na fonte, isso não significa isenção de pagamento de imposto. Aquando da entrega da declaração anual de rendimentos, deve preencher o modelo 3. Desta forma, fica ao seu critério decidir qual o momento mais adequado para pagar o IRS, se no momento de emissão do ato isolado ou no final do ano. 
+
+No caso de o ato isolado ser mais de 12.500 euros, tem de fazer retenção na fonte, sendo que a base de incidência mais comum é de 100%.   
+
+A taxa de retenção na fonte a escolher varia entre 11,5% e 25% e tem de ser de acordo com a atividade que gerou os rendimentos. A mais comum é 11,5%, tratando-se de rendimentos provenientes no exercício, por conta própria, de qualquer atividade de prestação de serviços, incluindo as de carácter científico, artístico ou técnico, qualquer que seja a sua natureza, ainda que relacionada com a atividade comercial, industrial, agrícola, silvícola ou pecuária (artigos 3.º, n.º 2, al. i), 101.º, n.º 1, al. c) do Código do IRS). Para esclarecer eventuais dúvidas, as Finanças disponibilizam uma tabela com todas as atividades abrangidas.  
+
+É igualmente importante que consulte também as tabelas de retenção na fonte referentes a 2022.  
+
+Para emitir um ato isolado, deve aceder Portal das Finanças. Faça o login com o seu número de contribuinte e respetiva palavra-passe e aceda à secção Faturas e Recibos Verdes.  Depois, basta preencher o formulário com a informação correta.
+
+Se não tiver atividade aberta, a Autoridade Tributária assume automaticamente que se trata de um ato isolado. 
+
+Existem três tipos de documentos disponíveis: fatura-recibo, fatura e recibo. Se a prestação do serviço ou realização da venda coincidir com o pagamento, deve emitir-se uma fatura-recibo. Caso contrário, emite-se uma fatura, emitindo-se o respetivo recibo após o pagamento.  
+
+Como funciona a declaração de IRS? 
+O ato isolado enquadra-se nos rendimentos da categoria B e deve ser declarado no Modelo 3.
+
+Estão apenas dispensados de apresentar a declaração Modelo 3 e o respetivo anexo B os contribuintes que realizem atos isolados cujos rendimentos sejam inferiores a quatro vezes o valor do IAS (1.755,24 euros em 2021 e 1.772,8 euros em 2022 - o Indexante de Apoios Sociais sobe em 2022), e não tenham outros rendimentos, ou apenas recebam rendimentos tributados pelas taxas liberatórias previstas no artigo 58.º do Código do IRS. 
+
+Para declarar o ato isolado no IRS deve preencher os seguintes quadros no anexo B do Modelo 3: 
+
+Quadro 1: Selecionar a opção “ato isolado”; 
+Quadro 3: Indicar o código de atividade a que respeita o ato isolado; 
+Quadro 4A: Declarar o valor dos rendimentos (sem o IVA); 
+Quadro 6: Indicar o valor da retenção na fonte de IRS, se se aplicar; 
+Quadro 13 (campo N): Declarar novamente o valor dos rendimentos. 
+O que é mais vantajoso: abrir atividade ou emitir um ato isolado? 
+O ato isolado só faz sentido quando se trata de uma atividade pontual, para a qual não se prevê repetição num futuro próximo. 
+
+Se pretende desempenhar funções como profissional independente com regularidade (mesmo que tenha um contrato de trabalho com outra entidade), deve ponderar a abrir atividade e informar-se sobre as obrigações fiscais de um freelancer. 
+
+Informe-se junto de especialistas da área para perceber qual a opção mais vantajosa para o seu caso.
